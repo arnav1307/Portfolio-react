@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Arnav Gupta",
+    "occupation": "Student",
+    "description": "I eat, sleep ,work and repeat",
+    "image": "profilepic.jpg",
+    "bio":"Hey there, I am Arnav Gupta. I am a guy who is very passionate about science and technology these days. I strongly believe the qualities that I have developed over my academic years have made me ready for a career in Computer science.I am ambitious and driven and  thrive on challenges and constantly set goals for myself, so I have something to strive towards. I’m not comfortable with settling, and I’m always looking for an opportunity to do better and achieve greatness",
+    "contactmessage": "Get in touch with me so that we can work together",
+    "email": "arny.arnav@gmail.com",
+    "phone": "+91  10101010101",
+    "address": {
+      "street": "Gurgaon Country",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zip": "122018"
+    },
+    "website": "https://www.arnav.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/arny.arnav/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arnav-gupta-092328188/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/arnavvvguptaa/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/arnav1307",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Languages",
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "degree": "Bachelor's Degree, Computer and Communication Engineering",
+        "graduated": "July 2022",
+        "description": "Graduated with Computer Engineering skills"
+      }
+    ],
+    "work": [
+      {
+        "company": "ABC",
+        "title": "Intern",
+        "years": "June - Present",
+        "description": "Cloning all the apps possible and fixing them"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "R programming",
+        "level": "60%"
+      },
+      {
+        "name":"Flutter",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid UI App (Flutter)",
+        "category": "",
+        "image": "Covid.jpg",
+        "url": "https://github.com/arnav1307/Covid-19-UI-app"
+      },
+      {
+        "title": "Weather App using Api (React JS)",
+        "category": "",
+        "image": "weather.jpg",
+        "url": "https://github.com/arnav1307/weather-react"
+      },
+      {
+        "title": "Checkers Game (Python)",
+        "category": "",
+        "image": "checkers.png",
+        "url": "https://github.com/arnav1307/Checkers"
+      },
+      {
+        "title":"Object Detection (Python)",
+        "category":"",
+        "image":"object.jpeg",
+        "url":"https://github.com/arnav1307/object_detection"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Arnav is absolutely excellent, his eagerness to learn realy means alot always up for it. I would definitely recommend",
+        "user": "ABC"
+      },
+      {
+        "text": "Working with Arnav has been a tremendous experiance. He is very good at what he does ",
+        "user": "XYZ"
+      }
+    ]
+  }
+}
